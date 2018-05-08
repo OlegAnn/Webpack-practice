@@ -1,0 +1,8 @@
+{
+  "name": "GitTest0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OlegAnn/test1.git",
+  "author": "OlegAnn <olegihimich@gmail.com>",
+  "license": "MIT"
+}
