@@ -7,3 +7,7 @@
 3. yarn install
 4. yarn run start
 
+Как устанавливать зависимости
+
+yarn add webpack-dev-server -D ("-D" значит локально)
+
