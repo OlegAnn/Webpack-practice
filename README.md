@@ -1,5 +1,4 @@
-# test1
-Webpack practice
+# Webpack-practice
 
 
 Как установить проект 
