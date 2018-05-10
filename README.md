@@ -9,5 +9,5 @@
 
 Как устанавливать зависимости
 
-yarn add webpack-dev-server -D ("-D" значит локально)
+yarn add webpack-dev-server -D ("webpack-dev-server"- имя зависимости, "-D" значит локально)
 
