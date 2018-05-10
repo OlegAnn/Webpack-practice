@@ -6,8 +6,8 @@
   "author": "OlegAnn <olegihimich@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server",
-    "build": "webpack",
+    "start": "webpack-dev-server --env development",
+    "build": "webpack --env production",
     "serv": "static build"
   },
   "devDependencies": {
